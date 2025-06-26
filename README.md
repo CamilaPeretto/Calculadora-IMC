@@ -42,16 +42,5 @@ JavaScript: Lógica de cálculo e manipulação do DOM
 
 ---
 
-### 🚀 Como executar
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/imc-calculator.git
-Navegue até a pasta do projeto e abra o arquivo index.html em qualquer navegador.
-
-Não é necessário servidor ou dependências externas.
-
----
-
 ## 👩‍💻 Desenvolvedora
 Projeto desenvolvido por Camila Peretto para fins de aprendizado e prática em desenvolvimento web.
